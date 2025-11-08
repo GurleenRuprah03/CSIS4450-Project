@@ -1,0 +1,40 @@
+Desired=Unknown/Install/Remove/Purge/Hold
+| Status=Not/Inst/Conf-files/Unpacked/halF-conf/Half-inst/trig-aWait/Trig-pend
+|/ Err?=(none)/Reinst-required (Status,Err: uppercase=bad)
+||/ Name                                          Version                                  Architecture Description
++++-=============================================-========================================-============-================================================================================
+ii  accountsservice                               23.13.9-2ubuntu6                         amd64        query and manipulate user account information
+ii  acl                                           2.3.2-1build1.1                          amd64        access control list - utilities
+ii  adduser                                       3.137ubuntu1                             all          add and remove users and groups
+ii  adwaita-icon-theme                            46.0-1                                   all          default icon theme of GNOME
+ii  alsa-base                                     1.0.25+dfsg-0ubuntu7                     all          ALSA driver configuration files
+ii  alsa-topology-conf                            1.2.5.1-2                                all          ALSA topology configuration files
+ii  alsa-ucm-conf                                 1.2.10-1ubuntu5.7                        all          ALSA Use Case Manager configuration files
+ii  alsa-utils                                    1.2.9-1ubuntu5                           amd64        Utilities for configuring and using ALSA
+ii  amd64-microcode                               3.20250311.1ubuntu0.24.04.1              amd64        Processor microcode firmware for AMD CPUs
+ii  anacron                                       2.3-39ubuntu2                            amd64        cron-like program that doesn't go by time
+ii  apg                                           2.2.3.dfsg.1-5build3                     amd64        Automated Password Generator - Standalone version
+ii  apparmor                                      4.0.1really4.0.1-0ubuntu0.24.04.4        amd64        user-space parser utility for AppArmor
+ii  apport                                        2.28.1-0ubuntu3.8                        all          automatically generate crash reports for debugging
+ii  apport-core-dump-handler                      2.28.1-0ubuntu3.8                        all          Kernel core dump handler for Apport
+ii  apport-gtk                                    2.28.1-0ubuntu3.8                        all          GTK+ frontend for the apport crash report system
+ii  apport-symptoms                               0.25                                     all          symptom scripts for apport
+ii  appstream                                     1.0.2-1build6                            amd64        Software component metadata management
+ii  apt                                           2.8.3                                    amd64        commandline package manager
+ii  apt-config-icons                              1.0.2-1build6                            all          APT configuration snippet to enable icon downloads
+ii  apt-config-icons-hidpi                        1.0.2-1build6                            all          APT configuration snippet to enable HiDPI icon downloads
+ii  apt-utils                                     2.8.3                                    amd64        package management related utility programs
+ii  aptdaemon                                     1.1.1+bzr982-0ubuntu44                   all          transaction based package management service
+ii  aptdaemon-data                                1.1.1+bzr982-0ubuntu44                   all          data files for clients
+ii  aspell                                        0.60.8.1-1build1                         amd64        GNU Aspell spell-checker
+ii  aspell-en                                     2020.12.07-0-1                           all          English dictionary for GNU Aspell
+ii  at-spi2-common                                2.52.0-1build1                           all          Assistive Technology Service Provider Interface (common files)
+ii  at-spi2-core                                  2.52.0-1build1                           amd64        Assistive Technology Service Provider Interface (D-Bus core)
+ii  avahi-daemon                                  0.8-13ubuntu6                            amd64        Avahi mDNS/DNS-SD daemon
+ii  baobab                                        46.0-1build1                             amd64        GNOME disk usage analyzer
+ii  base-files                                    13ubuntu10.3                             amd64        Debian base system miscellaneous files
+ii  base-passwd                                   3.6.3build1                              amd64        Debian base system master password and group files
+ii  bash                                          5.2.21-2ubuntu4                          amd64        GNU Bourne Again SHell
+ii  bash-completion                               1:2.11-8                                 all          programmable completion for the bash shell
+ii  bc                                            1.07.1-3ubuntu4                          amd64        GNU bc arbitrary precision calculator language
+ii  bind9-dnsutils                                1:9.18.39-0ubuntu0.24.04.2               amd64        Clients provided with BIND 9
